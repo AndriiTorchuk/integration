@@ -1,4 +1,7 @@
 language: python
+install:
+ - pip install pylint
+
 script:
  - python testing.py
  - pylint *.py
