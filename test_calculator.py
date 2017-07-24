@@ -13,3 +13,7 @@ assert len(answer) > 5
 text = "quick fox jumps over a lazy dog"
 
 assert "foxe" not in text  
+
+from exersise2 import a
+
+assert len(a)>0
