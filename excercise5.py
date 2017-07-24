@@ -11,3 +11,5 @@ def clice_test(text, num):
     slise_text function taskes string parameter `text` and integer `num` 
     """
     return text[0:num]
+
+print(clice_test(text, num))
