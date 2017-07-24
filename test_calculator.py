@@ -1,3 +1,3 @@
 from calculator import calc
 
-assert calc(1,1) == 2
+assert calc(1,1) == 6
