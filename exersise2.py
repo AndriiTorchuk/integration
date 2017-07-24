@@ -1,6 +1,6 @@
-""" 
+"""
 qwertyffgdf
 """
-a = "Today is rainy weather"
-print (a)
+textValue = "Today is rainy weather"
+print (textValue)
 # wether
