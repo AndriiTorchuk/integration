@@ -1,14 +1,17 @@
 """
 exersise3
 """
-i = 6
+ii = 6
 
 def myfactorial(i):
-    if i == 0: 
+"""
+My factorial
+"""
+    if i == 0:
         return 1
     else:
         return i*myfactorial(i-1)
 
-print (myfactorial(i))
+print (myfactorial(ii))
 
 # teorema Pifagora
