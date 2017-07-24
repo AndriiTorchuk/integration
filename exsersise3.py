@@ -4,9 +4,9 @@ exersise3
 ii = 6
 
 def myfactorial(i):
-"""
-My factorial
-"""
+    """
+    My factorial
+    """
     if i == 0:
         return 1
     else:
