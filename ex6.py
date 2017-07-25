@@ -7,11 +7,11 @@ except OSError:
     pass
 
 
-file_handler = open('filename','w')
+file_handler = open('filename', 'w')
 file_handler.write("some  text goes here")
 file_handler.close()
 
-read_file_handler = open('filename','r')
+read_file_handler = open('filename', 'r')
 content = read_file_handler.readlines()
 read_file_handler.close()
 
