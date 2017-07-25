@@ -6,6 +6,7 @@ from exersise2 import textValue
 from exsersise3 import *
 from math import factorial
 
+
 assert calc(1, 1) == 2
 
 answer = [1, 2, 3, 4, 5, 6]
