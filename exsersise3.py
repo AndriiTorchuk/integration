@@ -13,5 +13,3 @@ def myfactorial(i):
         return i*myfactorial(i-1)
 
 print (myfactorial(ii))
-
-# teorema Pifagora
