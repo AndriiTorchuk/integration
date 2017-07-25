@@ -7,3 +7,4 @@ script:
  - pylint *.py
  - python test_calculator.py
  - python excercise5.py
+ - python ex7.py
