@@ -3,7 +3,7 @@ ex7
 """
 
 som = open('file1', 'w')
-som.write("One is {0} and two is {1}") 
+som.write("One is {0} and two is {1}")
 som.write("\n")
 som.write("some text")
 som.close()
@@ -13,4 +13,3 @@ content = read_som.readlines()
 read_som.close()
 
 print(content)
-
