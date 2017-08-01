@@ -2,15 +2,10 @@
 ex7
 """
 
-print ("how old are you?"),
-age = raw_input()
-print ("You are {0}".format(age))
-text = "some {0} text {1}".format(1, 2)
-
 som = open('file1', 'w')
-som.write(text ="some {0} text {1}".format(1, 2)) 
+som.write("One is {0} and two is {1}") 
 som.write("\n")
-som.write(print(text))
+som.write("some text")
 som.close()
 
 read_som = open('file1', 'r')
