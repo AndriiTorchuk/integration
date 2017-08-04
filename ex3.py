@@ -1,6 +1,8 @@
 """
-exersise3
+Exercise 3
 """
+
+# This function is calculate factorial of value ii
 ii = 6
 
 def myfactorial(i):

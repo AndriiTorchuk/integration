@@ -3,8 +3,8 @@ install:
  - pip install pylint
 
 script:
- - python testing.py
+ - python ex1.py
  - pylint *.py
  - python test_calculator.py
- - python excercise5.py
+ - python ex5.py
  - python ex7.py

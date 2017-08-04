@@ -1,6 +1,7 @@
 """
-ex5
+Exercise 5
 """
+# clice the text
 one = 1
 two = 2
 num = 3
